@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    align-content: center;
+    background-color: grey;
+}
+hr{
+    border-style: dotted; border-width: 10px; border-bottom: 0px; width: 30%; margin: 50px auto;
+}
+.education{
+    background-color: black;
+    color: aliceblue;
+}
+.profilepic{
+    margin-top: 100px; border-radius: 100%; 
+}
